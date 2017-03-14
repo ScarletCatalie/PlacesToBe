@@ -6,5 +6,5 @@ Simply place the .bsp files into an existing Half Life 2: Episode 2 installation
 (steam directory)\steamApps\Common\Half-Life 2\ep2\maps
 
 Open the maps by opening the developer console with ¬ or ~ (keyboard depending) and typing 
-  map <mapname> 
+  map "mapname"
 then pressing Enter
